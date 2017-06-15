@@ -14,10 +14,9 @@ a {
 	color: #373535;
 }
 
-/*HEADER */
 header {
 	height: 150 px;
-	padding-top: 20 px;
+	padding-top: 40 px;
 }
 
 ul {
@@ -68,15 +67,6 @@ header li:first-child {
 	margin: 0; 
 }
 
-/**
- * For modern browsers
- * 1. The space content is one way to avoid an Opera bug when the
- *    contenteditable attribute is included anywhere else in the document.
- *    Otherwise it causes space to appear at the top and bottom of elements
- *    that are clearfixed.
- * 2. The use of `table` rather than `block` is only necessary if using
- *    `:before` to contain the top-margins of child elements.
- */
 .cf:before,
 .cf:after {
     content: " "; /* 1 */
@@ -98,4 +88,7 @@ header li:first-child {
 #main {
 	background-image: url('images/dishes.jpg');
 	
+}
+box {
+
 }
