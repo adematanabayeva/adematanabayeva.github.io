@@ -1,0 +1,36 @@
+.back {
+  background: green;
+  width: 50%;
+  float: right;
+}
+
+p {
+  background: grey;
+}
+.left {
+  width: 50%;
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.margin {
+  border: 3px solid red;
+  margin: 20px;
+  background: yellow;
+}
+.ph {
+  height: 60px;
+  <!-- overflow: scroll; -->
+}
+
+.left1 {
+  margin-left: 750px;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+
+}
