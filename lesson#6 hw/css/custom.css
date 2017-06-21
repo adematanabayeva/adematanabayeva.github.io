@@ -50,9 +50,9 @@ body {
   text-align: center;
   font-size: 15px;
 }
-.img-responsive {
+.carousel-example-generic {
 
-  width: 500px;
+  width: 400px;
 }
 
 .image {
