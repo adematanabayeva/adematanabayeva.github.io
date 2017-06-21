@@ -1,0 +1,68 @@
+body {
+  padding-top: 50px;
+  position: relative;
+}
+/*.active {
+  background: white !important
+  color: black;
+}*/
+/*#faq, #info, #team {
+  height: 100vh;
+  padding-top: 50px;
+}*/
+/*.carousel .item{
+	background: #333;
+  text-align: center;
+  height: 300px !important;
+}
+.carousel h2{
+	color: #fff;
+	margin: 0;
+  padding-top: 50px;
+  font-size: 48px;
+}*/
+/*#cars  {
+  text-align: center;
+  margin: 0;
+}
+#cars .img {
+  height: 50vh;
+  width: 50vh;
+
+}*/
+.black {
+  text-align: center;
+  color: black;
+}
+.white {
+  text-align: center;
+  color: white;
+}
+#teachers {
+  text-align: center;
+}
+#courses {
+	text-align: center;
+	font-size: 20px;
+	/*color: white;*/
+}
+#info {
+  text-align: center;
+  font-size: 15px;
+}
+.img-responsive {
+
+  width: 500px;
+}
+
+.image {
+	width: 30%;
+	padding: 10px 1%;
+	display: inline-block;
+}
+.image img {
+	width: 100%;
+}
+.image img:hover {
+	border: 2px solid white;
+}
